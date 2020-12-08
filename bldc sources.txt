@@ -1,0 +1,6 @@
+bldc modelling
+
+
+https://in.mathworks.com/matlabcentral/fileexchange/51069-dynamic-mathematical-modeling-of-brushless-dc-motor-trapezodial-back-emf
+
+https://www.youtube.com/watch?v=KurVsueM4fg&feature=youtu.be
